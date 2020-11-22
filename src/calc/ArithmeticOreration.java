@@ -1,5 +1,5 @@
 package calc;
 
 public interface ArithmeticOreration {
-    double performOpeation(double first, double second);
+    double performOperation(double first, double second);
     }
